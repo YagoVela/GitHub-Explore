@@ -9,7 +9,7 @@ It was built as an exercise of Rocketseat's GoStack Bootcamp to put in practice 
 This project connects to GitHub official API to get the data.
 
 
-Project developed during **GoStack** offered by [Rocketseat](rs).
+Project developed during **GoStack** offered by [Rocketseat](Rocketseat).
 
 
 
