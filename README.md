@@ -76,3 +76,4 @@ Made by Yago Vela 👋🏽 [Entre em contato!](https://github.com/YagoVela)
 [Axios]: https://blog.rocketseat.com.br/axios-um-cliente-http-full-stack/
 [React Router DOM]: https://reactrouter.com/web/guides/quick-start
 [React Icons]: https://react-icons.github.io/react-icons/
+[Rocketseat]: https://rocketseat.com.br
