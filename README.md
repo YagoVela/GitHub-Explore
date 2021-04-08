@@ -47,7 +47,7 @@ The following tools were used in the construction of the project:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/YagoVela/GitHub-Explore.git
 
 # Go to the project folder in terminal/cmd
 $ cd GitHub_Explore
